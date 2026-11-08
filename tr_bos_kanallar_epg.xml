@@ -1,0 +1,25 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+
+<tv generator-info-name="BOS BOS KANALLAR EPG (TR)">
+
+    <channel id="GencsmsTV.tr">
+        <display-name lang="tr">GencsmsTV</display-name>
+    </channel>
+
+    <programme start="20261108000000 +0300"
+               stop="20261109000000 +0300"
+               channel="GencsmsTV.tr">
+        <title lang="tr">Genç SMSTV SMS Yayın</title>
+        <desc lang="tr">Genç SMSTV SMS Yayını</desc>
+    </programme>
+
+    <programme start="20261109000000 +0300"
+               stop="20261111000000 +0300"
+               channel="GencsmsTV.tr">
+        <title lang="tr">Genç SMSTV SMS Yayın</title>
+        <desc lang="tr">Genç SMSTV SMS Yayını</desc>
+    </programme>
+
+</tv>
